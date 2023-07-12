@@ -20,16 +20,16 @@ Por fim, o programa imprime na tela o valor do IMC e sua classificação.
 
 Para executar o programa, você precisará ter o Python instalado em seu ambiente. Siga estas etapas:
 
-1. Copie o código fornecido abaixo para um arquivo com a extensão `.py` (por exemplo, `calculo_imc.py`).
+1. Clone esse repositório na sua máquina.
 2. Abra um terminal ou prompt de comando.
-3. Navegue até o diretório onde o arquivo `.py` foi salvo.
-4. Execute o programa digitando `python calculo_imc.py` e pressione Enter.
+3. Navegue até o diretório onde os arquivos foram clonados.
+4. Execute o programa digitando `python index.py` e pressione Enter.
 5. Insira o peso em quilogramas e a altura em metros quando solicitado.
 6. O programa calculará o IMC e exibirá o resultado na tela, juntamente com a classificação correspondente.
 
 Sinta-se à vontade para utilizar este código como referência ou adaptá-lo para suas próprias necessidades. Divirta-se!
 
-Clique em 👉 [Google Colabory](https://colab.research.google.com/drive/1o93y5-TZmXlbCjcMRSmfRDBvAxWhrG5X?authuser=1#scrollTo=xpABgeN3KRn-) 👈 para acessar o exercutavel online.
+Clique em 👉 [Google Colabory](hhttps://colab.research.google.com/drive/1o93y5-TZmXlbCjcMRSmfRDBvAxWhrG5X?usp=sharing) 👈 para acessar o exercutavel online.
 
 
 <table>
